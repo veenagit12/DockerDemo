@@ -1,5 +1,6 @@
-# DockerDemo
-SpringBoot DokerDemo project with complete CICD
+# Jul21DockerDemo
+
+This Repo will demonstrate the use of Spring Boot with Docker for complete CICD
 
 ## Things that will be done in this project 
 
